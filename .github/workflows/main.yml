@@ -22,3 +22,27 @@ jobs:
           git add README.md
           git commit -m "[add] w"
           git push origin main
+          echo "w" >> README.md
+          git add README.md
+          git commit -m "[add] w"
+          git push origin main
+          echo "w" >> README.md
+          git add README.md
+          git commit -m "[add] w"
+          git push origin main
+          echo "w" >> README.md
+          git add README.md
+          git commit -m "[add] w"
+          git push origin main
+          echo "w" >> README.md
+          git add README.md
+          git commit -m "[add] w"
+          git push origin main
+          echo "w" >> README.md
+          git add README.md
+          git commit -m "[add] w"
+          git push origin main
+          echo "w" >> README.md
+          git add README.md
+          git commit -m "[add] w"
+          git push origin main
